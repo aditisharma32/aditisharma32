@@ -149,5 +149,7 @@ I love building **modern, scalable web applications** and crafting **beautiful, 
 
 <div align="center">
   <br>
-  🤍 From [Aditi Sharma](https://github.com/aditisharma32) with ❤️ | Let’s build something beautiful together!
+  🤍 From [Aditi Sharma](https://github.com/aditisharma32) with ❤️ | Let’s build something beautiful together!  
+  <br>
+  <a href="https://www.linkedin.com/in/aditi-sharma-8b0525201/">👉 Connect with me on LinkedIn</a>
 </div>
